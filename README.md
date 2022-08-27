@@ -9,11 +9,11 @@ onclick="window.open('https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_p
 Wikipédia
 </a></button></p>
 
-<p><button><a href="#" 
-target="popup" 
-onclick="window.open('LINK🔴','popup','width=1280,height=900'); return false;">
+<p><button><p><a href="
+LINK🔴
+" target="_blank"><span style="color: #F4FA58; font-size: 18pt; background: red; border-radius:0px; padding:2px">
 NOME🔴
-</a></button></p>
+</span></a></p></button></p>
 
 <p><button><a href="#" 
 target="popup" 

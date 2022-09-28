@@ -2,11 +2,10 @@
 
 
 
-body{width:90%;margin: 0 auto;min-width:600px;max-width:2000px}
-
-
-
-body{width:100%;}
+@media (max-width: @screen-xs-max) { ... }
+@media (min-width: @screen-sm-min) and (max-width: @screen-sm-max) { ... }
+@media (min-width: @screen-md-min) and (max-width: @screen-md-max) { ... }
+@media (min-width: @screen-lg-min) { ... }
 
 
 

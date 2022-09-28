@@ -1,0 +1,76 @@
+﻿
+
+
+
+body{width:90%;margin: 0 auto;min-width:600px;max-width:2000px}
+
+
+
+body{width:100%;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* link que ainda não foi acessado */
+a {
+   color: #000;
+}
+/* link que foi visitado */
+a:visited {
+    color: #555;
+}
+/* quando o ponteiro do mouse passa no link */
+a:hover {
+    color: #999;
+}
+/* quando o link for selecionado */
+a:active {
+    color: #333;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

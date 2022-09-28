@@ -1,10 +1,12 @@
 ﻿
 
 
-<TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/lorem_ipsum" />
+.panel {
+    background-color: red;
+    width: 400px;
+    height: 300px;
+    margin: 0 auto;
+}
 
 
 
